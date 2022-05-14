@@ -14,4 +14,3 @@ output.elf: 0_wiper_control_system.o  1_wiper_control_system.o
 	
 clean:
 	rm -rf *.o *.elf
-	
